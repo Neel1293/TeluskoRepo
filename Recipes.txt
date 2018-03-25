@@ -2,11 +2,16 @@
 Welcome to my Kitchen
 
 Sweets - Kheer, Rasgulla
-Fast Food - Pasta, Maggi
-Nutritious Food - Sprouts
+Fast Food - Pasta, Maggi, Pizza, Burger
+Nutritious Food - Sprouts, Beans
+Beverages - Coffee, Tea, Cookies, Lays
 
 
 Thank You :)
 
 
+
+Done my changes
+
 Done
+
